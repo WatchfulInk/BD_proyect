@@ -1,0 +1,12 @@
+Negocio de construccion: 
+
+DataSets:
+Administracion y analisis de procesos mediante un ERP.
+
+Logistica de transportes. |transporte de material, importacion, exportacion, tipos de transportes|
+Compra y venta de materia prima. | compra, venta, proveedores, clientes, proyectos|
+Recurso personal administrativo y operativo. |personal, puestos, antiguedad, areas, ubicaciones|
+
+
+
+
