@@ -1,0 +1,38 @@
+Descripción
+
+Se realizará un reporte técnico en donde describas cómo y cuál tecnología elegiste usar, justificando el uso de cada herramienta y paso dado. Además de una presentación con los hallazgos del análisis sobre tema dado, mostrando gráficas e información del tema para justificar tus conclusiones.
+
+
+Objetivo
+
+Justificar el uso de tecnologías para explotación y consumo de grandes volúmenes de datos de manera gerencial y técnica.
+
+
+Requerimientos
+
+Haber realizado la fase III.
+
+
+Desarrollo
+
+Elabora un reporte técnico especificando todas las herramientas de Big Data utilizadas en el proyecto, describiendo su utilidad, ventaja e impacto en el mismo.
+Realiza una reflexión final sobre el uso de estas tecnologías en el análisis del tema que realizaste, así como lo que destaques de tu experiencia en ello.
+Realiza una presentación en PowerPoint con los hallazgos presentados del tema elegido con base en los análisis realizados.
+Por cada hipótesis realiza un análisis con las herramientas propuestas, obtén gráficos con código que ayuden a probar la hipótesis, así como la información más relevante para cada una de ellas.
+
+Criterios de evaluación
+
+Criterios	Puntaje
+1. Elabora un reporte técnico de herramientas de Big Data.	50
+2. Realiza una reflexión sobre el uso de tecnologías de Big Data.	10
+3. Realiza una presentación con los hallazgos encontrados del tema o problema propuesto.	40
+Puntaje total	100
+Importante: Los criterios de evaluación deben reflejar que el participante cumple con el objetivo de esta fase, y que demuestra la adquisición de la competencia del certificado.
+
+
+Entregables
+
+Documento con reporte técnico y reflexión.
+Presentación PowerPoint con los hallazgos encontrados sobre el tema o problema propuesto.
+
+

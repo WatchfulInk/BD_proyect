@@ -1,0 +1,33 @@
+Descripción.
+
+Se realizará un cronograma de acción para el proyecto, así como también se configurará la infraestructura sobre la que se trabajará con Spark y Hadoop, y además se ejecutarán los análisis propuestos de información de acuerdo con las hipótesis formadas.
+
+Objetivo.
+
+Ejecutar el análisis de información en una infraestructura para Big Data.
+
+Requerimientos.
+
+Haber realizado la fase II.
+Cuenta en la nube de su elección con los recursos necesarios para Hadoop y Spark/Hive.
+Instalación de Python en donde se vaya a desarrollar el proyecto.
+Desarrollo.
+
+Elabora un cronograma de actividades para cada una de las fases de ejecución, incluyendo los cinco análisis a realizar de la información con gráficos y tablas de apoyo.
+Instala y configura Hadoop en el ambiente elegido.
+Instala PySpark en Python.
+Instala todo lo necesario para la infraestructura planteada en la fase anterior que requiera su proyecto, una vez validada por su profesor.
+Define cinco hipótesis que quisieras comprobar con el análisis de información.
+Por cada hipótesis realiza un análisis con las herramientas propuestas, obtén gráficos con código que ayuden a probar la hipótesis, así como la información más relevante para cada una de ellas. Toma evidencia del uso de cada herramienta para el reporte final del proyecto.
+Criterios de Evaluación.
+
+Criterios	Puntaje
+1. Define un cronograma de acción para el proyecto con los análisis de datos que realizará.	25
+2. Instala y configura Hadoop en su ambiente de Big Data y presenta evidencia de ello.	10
+3. Instala Pyspark y la infraestructura necesaria para su proyecto, presentando evidencia de ello.	15
+4. Realiza el análisis de las cinco hipótesis propuestas con sustento en gráficos e información de valor.	50
+Puntaje total	100
+Entregables.
+
+Documento con evidencia de las instalaciones realizadas.
+Documento con el análisis de las hipótesis propuestas y sus gráficos de información de valor.
